@@ -3,9 +3,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/VihaanSom?style=social)](https://github.com/VihaanSom)
 [![GitHub stars](https://img.shields.io/github/stars/VihaanSom?style=social)](https://github.com/VihaanSom)
 
-**Full-Stack Developer | Blockchain Enthusiast | Problem Solver**
+**Full-Stack Developer | Mobile & Game Developer | Problem Solver**
 
-I'm a passionate developer who loves building innovative solutions across web development, blockchain, and automation. I enjoy exploring new technologies and creating practical applications that solve real-world problems.
+I'm a passionate developer who loves building innovative solutions across web development, mobile apps, game development, and automation. I enjoy exploring new technologies and creating practical applications that solve real-world problems.
 
 ---
 
@@ -26,11 +26,12 @@ I'm a passionate developer who loves building innovative solutions across web de
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-### **Blockchain & Smart Contracts**
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/-Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![Web3](https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+### **Mobile & Game Development**
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ### **Other Technologies**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -57,22 +58,6 @@ A comprehensive restaurant management system with real-time order tracking, inve
 - Sales reports and analytics
 - JWT-based authentication and role management
 - Multi-branch and terminal support
-
----
-
-### ♻️ [Green H2 Credits](https://github.com/VihaanSom/green-h2-credits)
-**Blockchain-Based Green Hydrogen Credits System**
-
-An Ethereum smart contract system for managing, issuing, and tracking green hydrogen credits on the blockchain.
-
-**Tech Stack:** Solidity, TypeScript, Hardhat, Ethers.js, TypeChain
-
-**Key Features:**
-- Smart contracts for green H2 credit issuance and tracking
-- Type-safe contract interactions using TypeChain
-- Automated testing and deployment with Hardhat
-- Sepolia testnet deployment support
-- Comprehensive test suite
 
 ---
 
@@ -134,7 +119,7 @@ Custom module development for Odoo ERP system focused on equipment management.
 ## 🌟 What I'm Working On
 
 - 🔭 Building full-stack applications with modern frameworks
-- 🌱 Exploring blockchain technology and smart contract development
+- 📱 Developing Android applications and Unity games
 - 💡 Creating innovative solutions for real-world problems
 - 🛠️ Contributing to open-source projects
 
