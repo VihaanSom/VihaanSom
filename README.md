@@ -43,6 +43,8 @@ I'm a passionate developer who loves building innovative solutions across web de
 
 ## 🚀 Featured Projects
 
+> 📱 **Note:** My Android and Unity game development projects are currently in private repositories. The projects below showcase my public work in web development and automation.
+
 ### 🍽️ [Odoo Cafe POS](https://github.com/VihaanSom/Odoo-Cafe-POS)
 **A Modern Full-Stack Point of Sale System**
 
